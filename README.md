@@ -1,76 +1,95 @@
-Hi, I’m John Trestrum S. Nuñez Jr.
+# Hi, I'm John Trestrum S. Nuñez Jr. 👋
 
-Information Technology Student | Developer | IT Support Enthusiast
+### IT Support Enthusiast | Developer | Non-Voice Support
 
-About Me
+## About Me
 
-I’m an Information Technology student with hands-on experience in technical troubleshooting, customer service, and software development. I also operate a small coin-operated computer rental business, where I manage computer setup, maintenance, and customer support.
+I'm an aspiring IT and technology professional with hands-on experience in technical troubleshooting, customer support, and software development. I previously managed a small coin-operated computer rental business, where I handled computer setup, maintenance, customer assistance, and day-to-day operations.
 
-I enjoy building practical solutions and continuously learning new technologies.
+I continuously improve my skills through self-study and personal projects, with a growing interest in AI automation, software development, and game development using Roblox Studio.
 
-Areas of Interest
+---
+
+## Areas of Interest
 
 * Technical Support
-* Help Desk
+* Help Desk Support
+* Non-Voice Customer Support
 * Software Development
 * Web Development
 * Game Development
-* AI & IoT Projects
+* AI Automation
+* IoT Projects
 
+---
 
+## Technical Skills
 
-Skills
-
-Programming Languages
+### Programming Languages
 
 * Python
 * Java
 * C++
 * JavaScript
-* HTML/CSS
+* HTML / CSS
 * Lua (Roblox Studio)
 
-IT Support
+### IT Support
 
 * Computer Troubleshooting
 * Hardware Installation
 * Software Installation
 * System Configuration
+* PC Assembly and Maintenance
 
-Customer Support
+### Customer Support
 
 * Chat Support
 * Email Communication
 * Data Entry
 * Problem Solving
+* Customer Assistance
 
+---
 
+## Projects
 
-Projects
+### 🎮 Roblox Multiplayer Horror Game (Ongoing)
 
-Roblox Multiplayer Game
+Developing a multiplayer horror-management game using Roblox Studio and Lua scripting. The project involves gameplay mechanics, multiplayer interactions, debugging, and system optimization.
 
-Personal project developed using Roblox Studio and Lua scripting.
+### 📱 Mobile Game Development
 
-Mobile Game Development
+Academic project involving game logic, user interface design, and functionality testing.
 
-Academic project involving game logic and interface design.
+### 🌐 Web Development
 
-Web Development
+Developed simple websites using HTML, CSS, JavaScript, and PHP while applying layout and design principles.
 
-Simple websites created using HTML, CSS, and JavaScript.
+### 🤖 AI Automation Learning
 
+Currently exploring AI workflows, automation tools, and emerging technologies through self-study and experimentation.
 
+---
 
-Resume
+## Resume
 
-Multiple resume versions are available in the /resume folder for different career paths.
+Multiple resume versions are available in the `/resume` folder for different career paths, including:
 
+* Non-Voice Support
+* Technical Support
+* IT Support
 
-Contact
+---
 
-📧 Email: nunez.johntrestrum@gmail.com
+## Contact
 
-🐙 GitHub: https://github.com/johntrestrum
+📧 Email: [nunez.johntrestrum@gmail.com](mailto:nunez.johntrestrum@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/boy-labo-undefined-519899413
+🐙 GitHub: johntrestrum
+
+💼 LinkedIn: linkedin.com/in/boy-labo-undefined-519899413
+
+---
+
+> Always learning, building, and improving one project at a time.
